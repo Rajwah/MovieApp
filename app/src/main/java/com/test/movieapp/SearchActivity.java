@@ -42,7 +42,7 @@ public class SearchActivity extends Activity {
 
   private ArrayList<Movie> ArrayListMovie;
   private JSONArray search_movies_array = null;
-  SearchView searchMovie; //The founded Results
+  SearchView searchMovie;
   private Context context;
 
   @Override
