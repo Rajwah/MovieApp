@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aflami</string>
+    <string name="nav_latest">Latest</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_favourite">Favourites</string>
+    <string name="search_here">Search Here...</string>
+    search_here
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
